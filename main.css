@@ -12,7 +12,7 @@ section h3, form button {
 }
 
 body , input, textarea{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Bricolage Grotesque', sans-serif;
 }
 
 header {
@@ -43,6 +43,11 @@ section .container {
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+.sobrep1 {
+    color: black;
+    
 }
 
 .brands-list img {
@@ -95,8 +100,9 @@ section p {
     margin-right: 32px;
 }
 
-.capa {
-    height:"480";
+.store-front img {
+    height:"480" ;
+    width:"860" ;
 }
 
 .social-links img {

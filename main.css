@@ -54,6 +54,10 @@ section .container {
     margin-right: 8px;
 }
 
+.brands-list p {
+    color: black;
+}
+
 section .container {
     align-items: flex-start;
 }
@@ -91,9 +95,8 @@ section p {
     margin-right: 32px;
 }
 
-.store-front img {
-    height:"480" ;
-    width:"860" ;
+.capa {
+    height:"480";
 }
 
 .social-links img {

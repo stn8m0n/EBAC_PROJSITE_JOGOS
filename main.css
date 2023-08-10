@@ -66,6 +66,10 @@ section {
     height: 100;
 }
 
+.container.store-front img {
+    height: 50px;
+}
+
 section h2 {
     margin-bottom: 16px;
 }

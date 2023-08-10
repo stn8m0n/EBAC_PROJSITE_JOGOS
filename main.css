@@ -70,6 +70,10 @@ section h2 {
     margin-bottom: 16px;
 }
 
+section h3 {
+    color: black;
+}
+
 section {
     color: gold;
     
